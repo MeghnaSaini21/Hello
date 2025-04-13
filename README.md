@@ -3,7 +3,7 @@ creating a "hello world" instance with the help of terraform by using scripts an
 All the script files can be stored in the format of .tf extension as JSON language.
 Terraform is an open-source Infrastructure as Code (IaC) tool developed by HashiCorp , used provisions amd manage as Infrastructure as code.
 By the use of the connection through ssh link and it is essential to present in the live directory where the private key is available for smooth access of the instance:
-![image](https://github.com/user-attachments/assets/00dab5d6-d8ce-4a26-a155-efdd06f76c8e)
+![Screenshot 2025-04-14 040753](https://github.com/user-attachments/assets/8205751c-5c21-4310-9778-6fa0261ff3c8)
 
 terraform mainly used by some following steps are as follows:
 1. terraform init [initialize]
